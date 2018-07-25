@@ -1,0 +1,17 @@
+*.iml
+*.ipr
+*.iws
+*.idea
+*.topology
+.project
+.classpath
+.settings
+.DS_Store
+*/.DS_Store
+*.log
+lmc-core.log*
+*.bak
+target
+*.iml
+.idea
+.versionsBackup
